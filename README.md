@@ -152,3 +152,9 @@ Provide users with a robust interface and API for interacting with structured re
 - **Reliability:** System uptime ≥99%.  
 - **Security:** Respects robots.txt and rate-limiting for each domain.  
 - **Scalability:** Can increase the number of sources by 50% without rewriting core code.
+
+---
+
+## 6. Useful links
+
+[Google Drive](https://drive.google.com/drive/folders/1eJBesfYyL8sr5AWAN03ozqeEggworfUF?usp=drive_link)
